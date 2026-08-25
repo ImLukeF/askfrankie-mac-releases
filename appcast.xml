@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>AskFrankie for Mac</title>
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Tue, 25 Aug 2026 10:00:00 +1000</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First release: the AskFrankie web app in a native window, plus the Messages bridge — pair with a token from the Messages page and Frankie can send SMS/iMessage campaigns through your own Mac, with STOP replies handled automatically.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.1.0/AskFrankie-0.1.0.zip" sparkle:edSignature="UTqnE8I9OutCax4ue1e+nzVCQX+y7zdFDLy9BnTO4R7SLWkzw0YmRsVgE39ygKkSBWQa1zp4B4kd0snASly2Bw==" length="1424193" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
