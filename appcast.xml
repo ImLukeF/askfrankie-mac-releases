@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.1.1</title>
+      <pubDate>Wed, 26 Aug 2026 18:32:34 +1000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The Mac now connects automatically after AskFrankie sign-in. Native connection, Messages, voice and permission controls have moved to AskFrankie Settings, and the Bridge button has been removed from the main window.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.1.1/AskFrankie-0.1.1.zip" sparkle:edSignature="UHRRzfpiYAAY4lA0YoNhK4aBtx2gon2U5qBSeNO34LL9brrQCaNJ5x+hRQbMR8L60dbl7Yoc4EVyfGbMHD9aAA==" length="1894529" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.0</title>
       <pubDate>Tue, 25 Aug 2026 10:00:00 +1000</pubDate>
       <sparkle:version>1</sparkle:version>
