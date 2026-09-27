@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.0</title>
+      <pubDate>Sun, 27 Sep 2026 15:27:39 +1000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Beta computer tasks now connect to your signed-in workspace, show Screen Recording and Accessibility status, and wait for native consent with Pause and Stop controls. The Mac stays connected while you review a task.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.0/AskFrankie-0.2.0.zip" sparkle:edSignature="IoDdkizllDYiMYO+cHsgFgUJpajE+o6OXrHrwb6WlgtyVAfTXKXoKwq2gyy5aVB2g6CSZkUjnVJF9lvibGa7BA==" length="1983398" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.1.1</title>
       <pubDate>Wed, 26 Aug 2026 18:32:34 +1000</pubDate>
       <sparkle:version>2</sparkle:version>
