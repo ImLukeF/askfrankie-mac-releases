@@ -4,12 +4,12 @@
     <title>AskFrankie for Mac</title>
     <item>
       <title>0.2.6</title>
-      <pubDate>Thu, 01 Oct 2026 14:03:54 +0000</pubDate>
-      <sparkle:version>15</sparkle:version>
+      <pubDate>Fri, 02 Oct 2026 00:17:13 +0000</pubDate>
+      <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Computer tasks can work in supported apps in the background, with progress and controls inside Frankie. Existing document editing and autosave have been verified. Failed tasks now report failure accurately. Some app-specific actions, including TextEdit Save As, remain unsupported in the background.</p>]]></description>
-      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.6/AskFrankie-0.2.6.zip" sparkle:edSignature="kaUeV9WNb1R/vJ3SQkenVTIQws7niRZcepLHi7X6DH9nLkdQmHYo8MK62Ua+slHLSQBgNFB7M+NApnIrc40IBw==" length="1897484" type="application/octet-stream"/>
+      <description><![CDATA[<p>Computer tasks work in supported apps in the background, with controls inside Frankie. This update improves document preservation and can save a verified plain-text copy to Downloads without a Save dialog. Existing files are never overwritten. Some app-specific actions, including rich-text Save As, remain unsupported in the background.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.6/AskFrankie-0.2.6.zip" sparkle:edSignature="RHFL44c5jSRx45H45XaA1WESkNO5FNK2wsEnnjpaRxkQFpJtDhDGZI6MchH9Rktbh6YxLyPQGOjjy1XsUSuVDg==" length="1930536" type="application/octet-stream"/>
     </item>
     <item>
       <title>0.2.0</title>
