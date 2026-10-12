@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.9</title>
+      <pubDate>Mon, 12 Oct 2026 03:51:00 GMT</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A cleaner Mac look: the app fills the window with the window controls over the sidebar, and menus, dialogs and notifications are translucent. The whole app is quieter and more compact, and Pages is a calm document workspace. Computer tasks can read files in Downloads, and web tasks run in an isolated browser inside Frankie.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.9/AskFrankie-0.2.9.zip" sparkle:edSignature="ZoT5iXEgt0mmUnsCqnhoZHi7BVQP3bLIBuQgKSvotmvVvkCeSs5ARLA5eDNYSsp+GJMkpo8qKPmTOT4aYvf6DA==" length="2066618" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.6</title>
       <pubDate>Fri, 02 Oct 2026 00:17:13 +0000</pubDate>
       <sparkle:version>22</sparkle:version>
