@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.10</title>
+      <pubDate>Thu, 15 Oct 2026 07:39:54 GMT</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Computer tasks use the requested window in the background, with fewer permission screens and controls inside Frankie. This update also improves task-window viewing and connection recovery. Beta acceptance is still in progress.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.10/AskFrankie-0.2.10.zip" sparkle:edSignature="HiCDQA4oruPBM5QqVvgQHcpfdp6e2G3mI2X17Ga2HaG1Wnmvz2Vosl1Q8BfysCiSQhX0FQ/brtCT3uUsnm49Cw==" length="2214110" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.9</title>
       <pubDate>Mon, 12 Oct 2026 03:51:00 GMT</pubDate>
       <sparkle:version>29</sparkle:version>
