@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.23</title>
+      <pubDate>Wed, 28 Oct 2026 02:54:40 GMT</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Frankie’s built-in browser now uses Chromium 156. Mac ChatGPT sign-in opens Chrome when available, with your default browser as a fallback. This update improves browser shutdown and sign-in callback cleanup. You will need to sign in once after updating; your workspace data is retained. Beta testing continues.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.23/AskFrankie-0.2.23.zip" sparkle:edSignature="dLt+m7JjRO8rLjAlpWVjXUL413qg3fOfg8f7JCddVPBKSTdGAIo9DRNXLlVtJzaXDa5e6bXbpyjQgjnWqgMdCA==" length="313485705" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.22</title>
       <pubDate>Wed, 28 Oct 2026 01:45:33 GMT</pubDate>
       <sparkle:version>45</sparkle:version>
