@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.27</title>
+      <pubDate>Wed, 28 Oct 2026 23:46:35 GMT</pubDate>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>0.2.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Call and email links work again: clicking one opens your phone (through your iPhone) or your mail app. Beta testing continues.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.27/AskFrankie-0.2.27.zip" sparkle:edSignature="aQjuF9en77Sef3kK6J0Rs+OeUrCZMmBseSMPhCJVgr9zk560wW+CWKCU2bEm+s39EvcyxkSbZLGAn4ZpuX1IAg==" length="313497681" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.26</title>
       <pubDate>Wed, 28 Oct 2026 08:10:30 GMT</pubDate>
       <sparkle:version>50</sparkle:version>
