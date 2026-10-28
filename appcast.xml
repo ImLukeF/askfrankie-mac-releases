@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.22</title>
+      <pubDate>Wed, 28 Oct 2026 01:45:33 GMT</pubDate>
+      <sparkle:version>45</sparkle:version>
+      <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A new app icon, and Frankie can use your ChatGPT plan directly from the Mac. While nothing is waiting, the app checks for messages and computer tasks less often, then speeds back up as soon as work arrives. Beta testing continues.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.22/AskFrankie-0.2.22.zip" sparkle:edSignature="e+o6kdBjCZYaLYDYIKls9SEjVEyOvRLJmEyjrQhu9TJxelGmmdrfkgxMVSJED/ioMlXor20Sz/k7Y+sAPfVEDg==" length="4864606" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.11</title>
       <pubDate>Sun, 18 Oct 2026 07:58:26 GMT</pubDate>
       <sparkle:version>34</sparkle:version>
