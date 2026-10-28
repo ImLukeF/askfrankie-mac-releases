@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.25</title>
+      <pubDate>Wed, 28 Oct 2026 05:31:16 GMT</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.2.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes the app freezing after a paste, including pasting into the password field, which could also stop sign-in and email codes from going through. The app is more responsive overall. Beta testing continues.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.25/AskFrankie-0.2.25.zip" sparkle:edSignature="eUPlspOBj4V9B3NrM0MLETf8nELUvEOz5gOMi+pVzhcOZriGBrCQHPHpjosmj5xHPyMuzk13IVRD1zVB0jRmBQ==" length="313489223" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.23</title>
       <pubDate>Wed, 28 Oct 2026 02:54:40 GMT</pubDate>
       <sparkle:version>46</sparkle:version>
