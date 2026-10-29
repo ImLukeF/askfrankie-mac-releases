@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.28</title>
+      <pubDate>Thu, 29 Oct 2026 01:52:19 GMT</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.2.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Screen text recognition follows your Mac language preferences, and ChatGPT sign-in uses the configured app address. Beta testing continues.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.28/AskFrankie-0.2.28.zip" sparkle:edSignature="rftkDedoJYA9cLqPu7j6uqC/Zu21H+gcDWmY9dmCo52bsxO9oYMZwj+B8zVumkRuT6mmkH3RVYs2KRxD+yYeAQ==" length="313497745" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.27</title>
       <pubDate>Wed, 28 Oct 2026 23:46:35 GMT</pubDate>
       <sparkle:version>51</sparkle:version>
