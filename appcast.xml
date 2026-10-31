@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.30</title>
+      <pubDate>Sat, 31 Oct 2026 03:52:22 GMT</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.2.30</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The trial reminder now sits at the top of the window, with a button to choose a plan.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.30/AskFrankie-0.2.30.zip" sparkle:edSignature="/o1KzY+LQynhkdtr+zfs1JFkYaQv/8lSWIvn47OLlM4MTqlTwZT5ZsogyT8GYP35ol9PMrfvqze70uVgMYdjAA==" length="313502741" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.29</title>
       <pubDate>Sat, 31 Oct 2026 01:42:32 GMT</pubDate>
       <sparkle:version>53</sparkle:version>
