@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.31</title>
+      <pubDate>Mon, 02 Nov 2026 03:02:57 GMT</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>0.2.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Keeps your Mac connected and replies monitored while Frankie does less work when idle.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.31/AskFrankie-0.2.31.zip" sparkle:edSignature="eM9JsPzt6UaHqmNGvUfPycsixYKVGix34Gm5Pq7ERSgH0wriX0tXan2jhvHuKTLceku6OBXf4Ic9VEwP8bzhDA==" length="313509821" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.30</title>
       <pubDate>Sat, 31 Oct 2026 03:52:22 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
