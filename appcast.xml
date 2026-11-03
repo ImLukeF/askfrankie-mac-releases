@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.32</title>
+      <pubDate>Tue, 03 Nov 2026 03:20:15 GMT</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.2.32</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Turn on native notifications for Frankie replies, new inbox messages and due reminders in AskFrankie Settings → Notifications. Alerts open the matching chat or item in your signed-in workspace.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.32/AskFrankie-0.2.32.zip" sparkle:edSignature="wergIGYBw3NktXdmjNL6j9HTSBS0Aggm9n5nDmeXG9FGmRwznd+/zeSuDDIobHMZ9383yBAqqPenZ3J2ZXDWCQ==" length="313584405" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.31</title>
       <pubDate>Mon, 02 Nov 2026 03:02:57 GMT</pubDate>
       <sparkle:version>55</sparkle:version>
