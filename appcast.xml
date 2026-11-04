@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.33</title>
+      <pubDate>Wed, 04 Nov 2026 09:48:55 GMT</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>0.2.33</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A blue update button appears above More tools when a new Mac update is available. Click it to open the update window.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.33/AskFrankie-0.2.33.zip" sparkle:edSignature="WDCfmpB/yV/USUU6PJnbgAvXvkyGPKKLvVvTIe9mcVAL7P+ieyDq5Y++Oh3r+5LAOwDwrp63h001arIUEFUxAQ==" length="313589724" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>0.2.32</title>
       <pubDate>Tue, 03 Nov 2026 03:20:15 GMT</pubDate>
       <sparkle:version>56</sparkle:version>
