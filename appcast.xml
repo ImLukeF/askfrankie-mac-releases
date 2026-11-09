@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.44</title>
+      <pubDate>Mon, 09 Nov 2026 12:08:25 GMT</pubDate>
+      <sparkle:version>68</sparkle:version>
+      <sparkle:shortVersionString>0.2.44</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Open the Downloads tab, adjust Browser settings, and manage Chrome extensions in a separate Frankie Browser window.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.44/AskFrankie-0.2.44.zip" sparkle:edSignature="Gt4bof+aAm25d3F148DDphwNsu7GMxdjmH4WddqY9A+bI0kcpJiKXskHAk1cPb1ikiHGvFAlwaXmwE3l6usvCw==" length="313798086" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.43</title>
       <pubDate>Mon, 09 Nov 2026 11:09:01 GMT</pubDate>
       <sparkle:version>67</sparkle:version>
