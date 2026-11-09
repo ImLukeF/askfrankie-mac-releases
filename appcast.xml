@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.42</title>
+      <pubDate>Mon, 09 Nov 2026 10:45:26 GMT</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.2.42</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Open multiple Browser tabs and collapse the pane to return to them later.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.42/AskFrankie-0.2.42.zip" sparkle:edSignature="rWnjTmEG5N9eKYFpXihLGkB8PgNkdFGS4hB6rUxUdAmwjOCkAxdjpRJSQstOlnG6dkIaoMlHBg6TbjImPfKdDQ==" length="313703340" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.41</title>
       <pubDate>Mon, 09 Nov 2026 10:21:52 GMT</pubDate>
       <sparkle:version>65</sparkle:version>
