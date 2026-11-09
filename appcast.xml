@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.40</title>
+      <pubDate>Mon, 09 Nov 2026 09:39:43 GMT</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>0.2.40</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Frankie’s Browser renders directly beside Mac chat, with takeover and handback in the same tab.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.40/AskFrankie-0.2.40.zip" sparkle:edSignature="E5fviERHwEAUIVfgksetkQMv7SjNPmb+1yebSVUcaZlvgja1m0t1U8liGxyGv69d25KYNT09GfhCPx9rB4PoBg==" length="313657568" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.39</title>
       <pubDate>Sat, 07 Nov 2026 12:52:12 GMT</pubDate>
       <sparkle:version>63</sparkle:version>
