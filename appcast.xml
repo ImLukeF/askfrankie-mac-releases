@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.46</title>
+      <pubDate>Thu, 12 Nov 2026 12:42:35 GMT</pubDate>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>0.2.46</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Meeting notes can hear a call on this Mac and write down what you and others say.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.46/AskFrankie-0.2.46.zip" sparkle:edSignature="5D9X0en2HauF9P/PpnFeNsvtFcLYMW0e1ubd7H/F7CFbPea5+SzsQyhI7CfWC8G4ZF/22DPG++dCynGE6ww/BA==" length="313873718" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.45</title>
       <pubDate>Wed, 11 Nov 2026 04:17:11 GMT</pubDate>
       <sparkle:version>69</sparkle:version>
