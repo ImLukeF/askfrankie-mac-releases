@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.47</title>
+      <pubDate>Sun, 15 Nov 2026 11:15:35 GMT</pubDate>
+      <sparkle:version>71</sparkle:version>
+      <sparkle:shortVersionString>0.2.47</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New: turn on iMessage import in Settings → Connections.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.47/AskFrankie-0.2.47.zip" sparkle:edSignature="dPR+pBOBOatIH0DcCCwiEByi//wAkM0B0TQvm8AybWo2hz9uDYz28tnUqp36nm+/aOLA+3Um1rG5017+SnAeDw==" length="314058114" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.46</title>
       <pubDate>Thu, 12 Nov 2026 12:42:35 GMT</pubDate>
       <sparkle:version>70</sparkle:version>
