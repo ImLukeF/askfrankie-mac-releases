@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.49</title>
+      <pubDate>Mon, 16 Nov 2026 01:29:43 GMT</pubDate>
+      <sparkle:version>73</sparkle:version>
+      <sparkle:shortVersionString>0.2.49</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes LinkedIn sign-in in Settings → Connections.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.49/AskFrankie-0.2.49.zip" sparkle:edSignature="5AEOhrRicJM4tw7rm/JlPWnvseXkGo+9FPOgL1y90mPTH+76saCsSj0w+x1UwNWbySNLGwr2SzCDQpx0wIOACQ==" length="314142419" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.48</title>
       <pubDate>Mon, 16 Nov 2026 00:51:25 GMT</pubDate>
       <sparkle:version>72</sparkle:version>
