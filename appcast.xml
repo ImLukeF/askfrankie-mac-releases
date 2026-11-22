@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.55</title>
+      <pubDate>Sun, 22 Nov 2026 06:46:26 GMT</pubDate>
+      <sparkle:version>79</sparkle:version>
+      <sparkle:shortVersionString>0.2.55</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Stays in one window when you come back from connecting email. Notifications close once you've read them.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.55/AskFrankie-0.2.55.zip" sparkle:edSignature="u0m4Kjehc4yODoZOFgj+ful834hvKbk0aW+U/IyH03ZLidxpo69AVx5qFEadReOWRjqoAWvUpreSqAmQgG++DA==" length="314330095" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.49</title>
       <pubDate>Mon, 16 Nov 2026 01:29:43 GMT</pubDate>
       <sparkle:version>73</sparkle:version>
