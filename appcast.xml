@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.59</title>
+      <pubDate>Wed, 25 Nov 2026 01:14:30 +1100</pubDate>
+      <sparkle:version>83</sparkle:version>
+      <sparkle:shortVersionString>0.2.59</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Settings → Activity now shows real sends, failures and captured conversations, and clears stale pairing state at launch.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.59/AskFrankie-0.2.59.zip" sparkle:edSignature="/oWOFJQyGOYf3fUMlX5fjKlgUkjP1tPDvaS7sNKGx8OTSAPr8pc/IEWNxvmGzZsHZ9/+td8Y3xHZS+UTvez2AA==" length="314267437" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.58</title>
       <pubDate>Tue, 24 Nov 2026 15:11:57 +1100</pubDate>
       <sparkle:version>82</sparkle:version>
