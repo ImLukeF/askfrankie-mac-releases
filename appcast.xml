@@ -3,6 +3,15 @@
   <channel>
     <title>AskFrankie for Mac</title>
     <item>
+      <title>0.2.58</title>
+      <pubDate>Tue, 24 Nov 2026 15:11:57 +1100</pubDate>
+      <sparkle:version>82</sparkle:version>
+      <sparkle:shortVersionString>0.2.58</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes a ChatGPT retry that could leave Frankie stuck on Working.</p>]]></description>
+      <enclosure url="https://github.com/ImLukeF/askfrankie-mac-releases/releases/download/v0.2.58/AskFrankie-0.2.58.zip" sparkle:edSignature="XZ8N2mDpxd9vbn7CcIZxlHtkg//1WDxgS8wAX9wMdNO2eRmfCBQzM95RTHJooKODktVGL2p4ZTVaWC+CZ6c5BA==" length="314333003" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.55</title>
       <pubDate>Sun, 22 Nov 2026 06:46:26 GMT</pubDate>
       <sparkle:version>79</sparkle:version>
